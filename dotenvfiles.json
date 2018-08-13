@@ -1,0 +1,9 @@
+[
+  ".env",
+  ".login",
+  ".bash_profile",
+  ".config.json",
+  ".env.json",
+  ".env.sample",
+  ".env.sample.json"
+]

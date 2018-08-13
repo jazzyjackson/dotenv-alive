@@ -1,0 +1,29 @@
+{
+  "name": "dotenv-alive",
+  "version": "0.1.0",
+  "description": "A file watcher to keep process.env up to date with file on disk",
+  "main": "dotenv-alive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazzyjackson/dotenv-alive.git"
+  },
+  "keywords": [
+    "process",
+    "env",
+    "dotenv",
+    "dotfile",
+    "bash_profile",
+    "profile",
+    "sync",
+    "watch"
+  ],
+  "author": "Colten Jackson",
+  "license": "SEE LICENSE IN CONTINUITY.LICENSE",
+  "bugs": {
+    "url": "https://github.com/jazzyjackson/dotenv-alive/issues"
+  },
+  "homepage": "https://github.com/jazzyjackson/dotenv-alive#readme"
+}
